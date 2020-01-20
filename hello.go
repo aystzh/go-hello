@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "github.com/aystzh/hello/morestrings"
+import "github.com/aystzh/go-hello/morestrings"
 import "github.com/google/go-cmp/cmp"
 
 func main() {

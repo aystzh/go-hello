@@ -1,4 +1,4 @@
-module github.com/aystzh/hello
+module github.com/aystzh/go-hello
 
 go 1.13
 
