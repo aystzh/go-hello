@@ -9,6 +9,7 @@ require (
 	github.com/justinas/alice v1.2.0 // indirect
 	github.com/liuzl/ds v0.0.0-20190109073647-d2aafa2ae9eb // indirect
 	github.com/liuzl/filestore v0.0.0-20180524083855-72874e76a47c // indirect
+	github.com/liuzl/gmusic v0.0.0-20200117022642-855d63d4af76 // indirect
 	github.com/rs/zerolog v1.17.2 // indirect
 	github.com/xgolib/gofeed v0.0.0-20190108090712-a735b6df530e // indirect
 	zliu.org/filestore v0.0.0-20180524083855-72874e76a47c // indirect
