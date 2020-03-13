@@ -32,6 +32,7 @@ func slice() {
 
 }
 
+/*
 func main() {
 	slice()
-}
+}*/
