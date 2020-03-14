@@ -9,7 +9,7 @@ func pointerValue() {
 	fmt.Println("指针修改过后的值为: ", str)
 }
 
-func main() {
+func test() {
 	pointerValue()
 	num := 100
 	add(num)
