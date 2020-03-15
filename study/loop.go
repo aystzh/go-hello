@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func mainTest() {
+func main() {
 	ifElse()
 	switchTest()
 	loopTest()
