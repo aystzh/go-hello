@@ -1,5 +1,5 @@
 # go-hello
-hello world for golang
+About Go language learning
 ## Install
 ```shell script
 go get github.com/aystzh/go-hello
