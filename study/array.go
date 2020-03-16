@@ -32,7 +32,6 @@ func slice() {
 
 }
 
-/*
-func main() {
+func arrayTest() {
 	slice()
-}*/
+}

@@ -46,3 +46,6 @@ func str() string {
 	fmt.Println(runArryNew)
 	return "hello golang"
 }
+func strTest() {
+	str()
+}

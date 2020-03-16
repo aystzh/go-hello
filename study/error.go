@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-func main() {
+func errorTest() {
 	//错误异常处理
 	errorHanding()
 	//自定义异常处理

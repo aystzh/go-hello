@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func mainTest() {
+func functionTest() {
 	res := addFunc(1, 4)
 	fmt.Printf("1+4的结果为res: %d", res)
 

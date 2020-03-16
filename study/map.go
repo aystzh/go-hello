@@ -16,8 +16,6 @@ func mapValue() {
 	fmt.Printf("修改后的m2 age值为 %s", m2)
 }
 
-/*
-func main() {
+func mapTest() {
 	mapValue()
 }
-*/
