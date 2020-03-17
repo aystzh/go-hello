@@ -26,7 +26,7 @@ func (w *Worker) getName() string {
 	return w.gender
 }
 
-func main() {
+func interfaceTest() {
 	//将空值 nil 转换为 *Student 类型，再转换为 Person 接口，如果转换失败，说明 Student 并没有实现 Person 接口的所有方法。
 	var _ Person = (*StudentNew)(nil)
 	var _ Person = (*Worker)(nil)
