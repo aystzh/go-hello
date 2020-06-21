@@ -21,8 +21,8 @@ func main() {
 
 	//Go 类型转换测试
 	var i int = 32
-	var f float64 = (i)
-	var j uint64 = (f)
+	var f float64 = float64(i)
+	var j uint64 = uint64(f)
 	//简写
 	q := 44
 	w := float64(q)
