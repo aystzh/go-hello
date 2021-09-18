@@ -24,6 +24,6 @@ func strStr(sourceStr string, destStr string) int {
 }
 
 func main() {
-	i := strStr("123456", "45e")
+	i := strStr("123456", "d")
 	fmt.Print("第一次出现的位置是:", i)
 }
